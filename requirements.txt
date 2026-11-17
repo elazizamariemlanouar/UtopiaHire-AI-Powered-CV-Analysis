@@ -1,0 +1,15 @@
+# CV analysis & ATS scoring
+spacy
+textstat
+langdetect
+keybert
+sentence-transformers
+transformers
+torch
+numpy
+pdfplumber
+python-docx
+
+# Interview question service
+fastapi
+uvicorn

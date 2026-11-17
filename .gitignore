@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Local test files and personal data
+test.py
+interview_log.json
+*.pptx
