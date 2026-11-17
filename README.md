@@ -102,4 +102,4 @@ UtopiaHire is a semester project (2025–2026) at **ENISo — National Engineeri
 
 The full platform combines a React frontend with FastAPI micro-services: CV analysis, a Llama 3.2 interview generator, voice interaction (Whisper / VITS), audio analysis (Librosa) and facial-stress analysis (DeepFace).
 
-**My part — the CV analysis & ATS module (`src/`):** text extraction, section detection and scoring, semantic matching to the target position, keyword relevance, the ATS filter simulation and the improvement suggestions. This repository also contains the Llama 3.2 question-generation service. The web interface and the other modules were built by my teammates and are not included here.
+**My part — the CV analysis & ATS module (`src/`):** NLP , text extraction, section detection and scoring, semantic matching to the target position, keyword relevance, the ATS filter simulation and the improvement suggestions. This repository also contains the Llama 3.2 question-generation service. The web interface and the other modules were built by my teammates and are not included here.
